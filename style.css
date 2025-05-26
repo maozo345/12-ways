@@ -1,4 +1,5 @@
 
+
 html {
     /* 10px */
     font-size: 62.5%;
@@ -14,19 +15,13 @@ html {
   
   }
 
-.container {
-    width: 50vw;
-    height: 20vh;
-    background-color: aquamarine;
-    flex: content;
-    
-}
+
 
 video {
     
     width: 500vw;
     height: 20vh;
 }
-  
+ 
   
   
